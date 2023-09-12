@@ -1,0 +1,15 @@
+table{
+    background-color: cadetblue;
+    border: aquamarine;
+}
+body{
+    background-color: aquamarine;
+    margin: 0;
+}
+h1{
+    background-color: blue;
+    margin: 1px;
+}
+a{
+    font-size: 50px;
+}
