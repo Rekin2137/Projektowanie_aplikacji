@@ -16,5 +16,5 @@ btn.addEventListener('click',function (){
             "iloraz = "+iloraz+"<br>"+
             "suma = "+suma+"<br>"+
             "roznica  = "+roznica+"<br>"+
-              "iloczyn = "+iloczyn+"<br>";// do poprawy
+              "iloczyn = "+Math.floor(iloczyn)+"<br>";// do poprawy
 } )
