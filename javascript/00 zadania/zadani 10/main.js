@@ -6,5 +6,5 @@ addEventListener('click',function (){
     xx = parseInt(x.value)
 
     let wzor =Math.pow(xx,2)
-
+    wynik.innerHTML
 } )
