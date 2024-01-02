@@ -1,0 +1,22 @@
+button{
+    height: 100px;
+    width: 150px;
+}
+#zielonyButton{
+    background: rgb(0,255,0);
+}
+#niebieskiButton{
+    background: rgb(0,0,255);
+}
+#czerwonyButton{
+    background: rgb(255,0,0);
+}
+#opis{
+    float: right;
+    width: 20%;
+
+}
+body{
+    background-color: darkblue;
+    color: wheat;
+}
